@@ -1,4 +1,4 @@
-<h1 align='center'><b><u>Clinical Data Analysis
+# Clinical Data Analysis
  
 ### Problem Statement 1:
 #### Visualization for No.of studies by each category of condition.\n",
