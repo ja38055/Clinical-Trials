@@ -38,19 +38,6 @@ data.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -111,19 +98,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -235,9 +209,9 @@ post which we can Predict cancer rate for the next 5 years.
 
 ### 1. Conditions/Diseases wise Analysis on "Cancers and Other Neoplasms"
 
-### -----------------------------------------------------------------------------------------------------------------------------
+##### -----------------------------------------------------------------------------------------------------------------------------
 **Question: -** What are top 10 conditions of ***"Cancers and Other Neoplasms"*** with maximum number of studies?
-### -----------------------------------------------------------------------------------------------------------------------------
+##### -----------------------------------------------------------------------------------------------------------------------------
 
 
 ```python
