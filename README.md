@@ -1,13 +1,13 @@
 
-<h1 align='center'><b><u>Clinical Data Analysis
+***Clinical Data Analysis
 
-### Problem Statement 1:
+**Problem Statement 1:
 
-#### Visualization for No.of studies by each category of condition.
+Visualization for No.of studies by each category of condition.
 
-## Problem Statement 2:
+**Problem Statement 2:
 
-#### Analyzing the data to get more insights from the Category "Cancers and Other Neoplasms" of studies with fields like: 
+Analyzing the data to get more insights from the Category "Cancers and Other Neoplasms" of studies with fields like: 
 * condition 
 * Age
 * Gender
@@ -17,7 +17,7 @@
 post which we can Predict cancer rate for the next 5 years.
 
 
-```python
+```bash
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
